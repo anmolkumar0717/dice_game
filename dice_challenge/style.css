@@ -1,0 +1,59 @@
+body{
+    background: url("https://images.freecreatives.com/wp-content/uploads/2016/03/Cool-White-Backgrounds-1.jpg");
+}
+.text{
+    background-color: transparent;
+}
+
+.text_head{
+    font-family: "Nabla", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+    font-size: 3.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:20px ;
+    
+}
+p:hover{
+    background-color: transparent;
+    text-shadow:0 0 20px rgb(181, 123, 6);
+
+}
+.dice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.btn_ref{
+    
+    height: 60px;
+    width: 200px;
+    border-radius: 30px;
+    background: rgb(43, 6, 102);
+    color: rgb(231, 154, 11);
+    font-size: 2.5rem;
+}
+button.btn_ref{
+    font-size: 1.2rem;
+    font-family: "Workbench", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "BLED" 0,
+        "SCAN" 0
+}
+.refresh{
+    padding-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
