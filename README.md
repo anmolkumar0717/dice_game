@@ -30,13 +30,10 @@ This is a simple dice game where two players roll a pair of dice, and the player
 - Instant result: The game shows the result immediately after both players roll the dice.
 
 ## Screenshots
-[Include screenshots of your game here if you like]
-
-## Demo
-[Link to a live demo if available]
+![image](https://github.com/anmolkumar0717/dice_game/assets/67816131/3fabda9e-9685-47e0-a32c-2e93e7b26ead)
 
 ## Author
-[Your Name]
+Anmol chourasia
 
 ## License
 This project is licensed under the anmol-lord
